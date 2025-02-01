@@ -1,2 +1,2 @@
 # Bank-Loan-Data-Analysis
-Conducted an in-depth analysis of comprehensive bank data to visualize and understand key performance indicators (KPIs).
+This project focuses on analyzing comprehensive bank data to identify key performance indicators (KPIs) and trends. Using Power BI, we cleaned, merged, and visualized data to extract meaningful insights, enabling better decision-making for financial institutions.
